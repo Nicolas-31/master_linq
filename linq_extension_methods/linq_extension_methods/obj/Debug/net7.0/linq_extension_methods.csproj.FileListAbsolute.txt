@@ -1,0 +1,15 @@
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\bin\Debug\net7.0\linq_extension_methods.exe
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\bin\Debug\net7.0\linq_extension_methods.deps.json
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\bin\Debug\net7.0\linq_extension_methods.runtimeconfig.json
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\bin\Debug\net7.0\linq_extension_methods.dll
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\bin\Debug\net7.0\linq_extension_methods.pdb
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.dll
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\obj\Debug\net7.0\refint\linq_extension_methods.dll
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.pdb
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\Github\master_linq\linq_extension_methods\linq_extension_methods\obj\Debug\net7.0\ref\linq_extension_methods.dll
